@@ -1,2 +1,2 @@
 # ooya
-"Object of Your Affection" - a brief Codecademy exercise in the creation of classes and instantiation of objects, saved her for posterity and later review
+"Object of your affection" dating profile example. Practice w/ object-oriented programming from Codecademy's C++ introductory course.
